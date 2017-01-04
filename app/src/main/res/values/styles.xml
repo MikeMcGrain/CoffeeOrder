@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- App Bar -->
+        <item name="colorPrimary">#795548</item>
+        <!-- Status Bar -->
+        <item name="colorPrimaryDark">#5d4037</item>
+        <!-- UI Controls -->
+        <item name="colorAccent">#3e2723</item>
+    </style>
+
+    <!-- Style for a head TextView -->
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
